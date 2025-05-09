@@ -2,6 +2,10 @@
 
 A simple calculator implementation that converts standard infix expressions to postfix notation for evaluation. This repository includes three versions: a command-line interface and two GUI applications with increasing functionality.
 
+## Demonstration
+
+[![Calculator Demo](https://img.youtube.com/vi/OOwUB-HDook/0.jpg)](https://www.youtube.com/watch?v=OOwUB-HDook)
+
 ## Overview
 
 These calculators convert familiar infix expressions (like `3 + 4`) to postfix notation (like `3 4 +`) behind the scenes, making operator precedence handling more straightforward. The applications support basic arithmetic operations, parentheses, and exponents.
